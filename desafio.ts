@@ -38,7 +38,7 @@ const pessoa3: Pessoa = {
     profissao: Profissao.atriz
 }
 
-let pessoa4: Pessoa = {
+const pessoa4: Pessoa = {
     nome: "carlos",
     idade: 19,
     profissao: Profissao.Padeiro
